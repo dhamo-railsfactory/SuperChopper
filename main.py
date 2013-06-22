@@ -1,5 +1,4 @@
 #!/usr/bin/python
-import time
 import Image
 import sys
 filename = "IMG_89"
